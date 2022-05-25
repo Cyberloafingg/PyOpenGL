@@ -1,0 +1,13 @@
+# Blender MTL File: 'di_3.blend'
+# Material Count: 1
+
+newmtl yanglintaobao888_3
+Ns 71.000011
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\86185\\Desktop\\素材模型\\7个卡通人物\\tex\\3d66Model-1590459-files-3.png
